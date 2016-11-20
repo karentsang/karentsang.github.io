@@ -1,0 +1,37 @@
+.profile-pic{
+	max-width: 100%;
+}
+.progress.progress-custom1::-webkit-progress-value{
+	background: #BDF8F5;
+}
+.progress.progress-custom2::-webkit-progress-value{
+	background: #F8E5BD;
+}
+.progress.progress-custom3::-webkit-progress-value{
+	background: #F8D1BD;
+}
+.progress.progress-custom4::-webkit-progress-value{
+	background: #F8BDBD;
+}
+.navbar-custom{
+	background: #89C4F4;
+}
+.tag1{
+	color: white !important;
+	font-size: 45px;
+}
+.white-font{
+	color: white;
+	font-size: 20px;
+	position: relative;
+	top: 30px;
+}
+.navbar{
+	margin-bottom: 40px;
+}
+body{
+	background-image: url("../img/sea.jpeg");
+	background-position: center;
+	background-size: 100%;
+	padding-top: 90px;
+}
